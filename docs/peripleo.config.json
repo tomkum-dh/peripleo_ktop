@@ -4,7 +4,7 @@
   "data": [
     {
       "name": "VisitPlus",
-      "format": "LINKED_PLACES", 
+      "format": "LINKED_PLACES",
       "src": "./data/KTOP.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
